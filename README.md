@@ -1,2 +1,3 @@
 # Create-Tic-Tac-toe-game
-Create Tic Tac toe game for two player
+Sandeep Raj Tamuli: 193110035: IIT Bombay
+Tic Tac toe game for two player
